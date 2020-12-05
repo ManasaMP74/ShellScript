@@ -4,3 +4,6 @@
 - `#` - is used for comments
 - to make file as executable file. run `chmod -x filename` in command prompt.
 - to check file is executtable or not use `ls -l filename`
+- To run shell script file: 
+    - Open command prompt
+    - enter `filename.sh`
