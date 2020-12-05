@@ -51,7 +51,6 @@ getValue
 echo $value
 
 #function without return and with parameter
-value=0
 printPerson() {
     name=$1
     age=$2
