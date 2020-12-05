@@ -12,7 +12,7 @@ done
 
 #break statement with nested for loop
 # break - it breaks 1st loop
-#break nth - it breaks nth clossing loop
+#break nth - it breaks nth closing loop
 
 #this breaks only inner loop
 for i in 0 1 2 
