@@ -60,7 +60,6 @@ printPerson "varsha" 20
 
 
 #function with return and with parameter
-value=0
 printPersonAndReturn() {
     name=$1
     age=$2
@@ -69,4 +68,3 @@ printPersonAndReturn() {
 }
 printPersonAndReturn "deeksha" 20
 echo "print new age $?"
-
