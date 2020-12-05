@@ -12,7 +12,7 @@ done
 
 #continue statement with nested for loop
 # continue - it stops exection of 1st loop condition and continue the flow
-#continue nth - it stops exection of nth clossing loop and continue the flow
+#continue nth - it stops exection of nth closing loop and continue the flow
 
 #this continue applied only to inner loop
 for i in 0 1 2 
